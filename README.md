@@ -1,4 +1,4 @@
-# Scalable Graph Generative Modeling via Substructure Sequences (G2PM)
+# Generative Graph Pattern Machine (G2PM)
 
 <div align='center'>
 
