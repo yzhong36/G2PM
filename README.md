@@ -147,6 +147,14 @@ If you find this work useful, please cite our paper:
   journal={arXiv preprint arXiv:2505.16130},
   year={2025}
 }
+
+@inproceedings{wang2025generative,
+   title={Generative Graph Pattern Machine},
+   author={Zehong Wang and Zheyuan Zhang and Tianyi Ma and Chuxu Zhang and Yanfang Ye},
+   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+   year={2025},
+   url={https://openreview.net/forum?id=tdMWo3jB21}
+}
 ```
 
 ## 👥 Authors
